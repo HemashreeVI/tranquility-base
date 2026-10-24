@@ -2,12 +2,40 @@
 
 A cinematic portfolio for [HemashreeVI](https://github.com/HemashreeVI): scroll to clear the dust and watch the **real Earth rise over the real Moon**, fly 384,400 km home, then **pilot the Eagle** across the globe. Each of 19 countries holds one project.
 
+![The Earth rising over the Moon's limb, under the EARTHRISE title](docs/screenshots/02-earthrise.jpg)
+
 ## The film
 
-1. **Earthrise.** NASA's Blue Marble Earth (city lights on the night side, drifting clouds) climbs over the limb of the Moon, textured with the LRO mosaic around the Sea of Tranquillity. Letterbox bars, subtitles and a mission clock that starts at the real landing time, T+102:45.
-2. **Return.** The flight home is drawn as you scroll: lunar ascent, trans-Earth injection, the long coast, Earth orbit.
-3. **Expedition (the game).** Steer the planet under your lander (drag, arrow keys or WASD), line the reticle up with a beacon and land. Each landing opens that project's dossier and refuels you; running dry drops you to reserve thrust. Land on all 19 to complete the mission. Prefer not to fly? Use the destination list or **Autopilot**.
-4. **Manifest.** Every project in a grid, each with **Fly there**.
+### 1. Earthrise
+Scroll to clear the cosmic dust. NASA's Blue Marble Earth (city lights on the night side, drifting clouds) climbs over the limb of the Moon, textured with the LRO mosaic around the Sea of Tranquillity. The scene has letterbox bars, subtitles and a mission clock that starts at the real landing time, T+102:45.
+
+| Scroll to clear the dust | Scene 02 |
+|---|---|
+| ![Dust veil with "Scroll to clear the dust"](docs/screenshots/01-dust.jpg) | ![Astronaut on the lunar surface watching the Earth, with a subtitle](docs/screenshots/03-scene.jpg) |
+
+### 2. Return
+The flight home is drawn as you scroll: lunar ascent, trans-Earth injection, the long coast, then Earth orbit. A counter ticks the distance up to 384,400 km.
+
+![Trajectory from the Moon to the Earth, drawn mid-coast](docs/screenshots/04-return.jpg)
+
+### 3. Expedition (the game)
+Steer the planet under your lander (drag, arrow keys or WASD), line the reticle up with a beacon and land. Each landing opens that project's dossier and refuels you; running dry drops you to reserve thrust. Land on all 19 to complete the mission. Prefer not to fly? Use the destination list or **Autopilot**.
+
+![The photographic globe with beacons on the 19 project countries](docs/screenshots/05-expedition.jpg)
+
+![A project dossier after landing in Bengaluru, India](docs/screenshots/06-dossier.jpg)
+
+### 4. Manifest
+Every project in a grid, each with **Fly there**, which takes you to that country on the globe.
+
+![Grid of project cards with country, coordinates and stack](docs/screenshots/07-manifest.jpg)
+
+### On a phone
+
+<p>
+  <img src="docs/screenshots/08-mobile-earthrise.jpg" alt="Earthrise on a phone" width="260" />
+  <img src="docs/screenshots/09-mobile-game.jpg" alt="The landing game on a phone" width="260" />
+</p>
 
 ## Run it
 
